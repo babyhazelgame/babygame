@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "babyhazelgame/babygame",
+    "description": "baby hazel games Framework.",
+    "keywords": ["framework", "baby hazel"],
     "license": "MIT",
     "type": "project",
     "require": {
